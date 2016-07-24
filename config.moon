@@ -1,8 +1,8 @@
 _ =
-  telegram_api_key: "239696467:AAGpXTfyy8P7y9z95Fh1sVnBRLQyoDh4I54" --Your telegram bot api key
+  telegram_api_key: "191413689:AAEZadOGfo-V8WvEG4Pi7fBATKAUjz-5uK0" --Your telegram bot api key
   cli_port: 7731
   admins: {
-    113741799
+    175319648
   }
   plugs: {
     "Bold"
